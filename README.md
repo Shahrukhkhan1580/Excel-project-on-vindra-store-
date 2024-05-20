@@ -12,3 +12,4 @@ In this project all work done only Excel so firstly cleaned the data like delete
 4.Amazon, Flipkart and Myntra channels are max contributing 80%.**
 **Future Advice**
 Target women customers of age group (30-49 yrs) living in maharashtra, karnataka and uttar pradesh by showing ads/offers/coupans available on Amazon, Flipkart and Myntra.
+![Screenshot (4)](https://github.com/Shahrukhkhan1580/Excel-project-on-vindra-store-/assets/169712366/d7fae3c5-c51c-4128-a57e-338d32144686)
